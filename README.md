@@ -1,4 +1,4 @@
-I build open-source tools that prioritize sovereignty and decentralization.
+I build open-source tools for sovereignty.
 
 GPG key: `B4E4 B33A 580E 9C59 E548  C6E6 B111 E137 D165 63E1`
 
